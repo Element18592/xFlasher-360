@@ -15,6 +15,9 @@
 - Native integration with the J-Runner with Extras software
 - Flashing compatibility for all Xilinx based glitch chips including the Ace V3, Coolrunner, Matrix, etc
 - Native Windows x64 drivers, no more hassling with unsigned drivers
+
+## Product Page
+https://themodshop.co/shop/xflasher.html
   
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:support@themodshop.co)<br />
