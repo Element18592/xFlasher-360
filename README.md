@@ -1,8 +1,8 @@
 
 <h1 align="center">xFlasher 360</h1>
-
-<img align="center" src="https://i.imgur.com/RE13A5d.png">
-   
+<p align="center">
+  <img width="580" height="358" src="https://i.imgur.com/RE13A5d.png">
+</p>  
 ## Description
   
 Nearly 3 times faster than the NAND-X
