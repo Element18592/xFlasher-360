@@ -1,7 +1,7 @@
 
 <h1 align="center">xFlasher 360</h1>
 
-![Model](https://i.imgur.com/RE13A5d.png)
+<img align="center" src="https://i.imgur.com/RE13A5d.png">
    
 ## Description
   
