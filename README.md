@@ -1,6 +1,6 @@
 <h1 align="center">xFlasher 360</h1>
 <p align="center">
-  <img width="580" height="358" src="[https://i.imgur.com/RE13A5d.png](https://i.imgur.com/sWvT9Mg.png)">
+  <img width="580" height="358" src="https://i.imgur.com/sWvT9Mg.png">
 </p>
 
 ## Description
